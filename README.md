@@ -51,3 +51,19 @@
 </div>
 
 </div>
+
+<div align="center">
+
+## <span style="color: #0ff; text-shadow: 0 0 5px #0ff;">📊 𝓒𝓞𝓓𝓔 𝓢𝓣𝓐𝓣𝓢</span>
+
+<pre style="background: #111; color: #0f0; padding: 15px; border-radius: 5px; border-left: 3px solid #f0f;">
+<b>𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 𝚄𝚂𝙰𝙶𝙴 𝚂𝚃𝙰𝚃𝚂:</b>
+
+<b>JAVA</b>    ████████████████████░░ <span style="color:#0ff">89.12%</span>
+<b>PYTHON</b>  ██████░░░░░░░░░░░░░░░ <span style="color:#0ff">7.65%</span> 
+<b>C++</b>     ██░░░░░░░░░░░░░░░░░░░ <span style="color:#0ff">2.01%</span>
+<b>SPRING</b>  █░░░░░░░░░░░░░░░░░░░░ <span style="color:#0ff">1.15%</span>
+<b>OTHER</b>   ░░░░░░░░░░░░░░░░░░░░░ <span style="color:#0ff">0.07%</span>
+</pre>
+
+</div>
