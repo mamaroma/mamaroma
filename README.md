@@ -2,12 +2,12 @@
 
 <!-- Главный заголовок с эффектом неона -->
 <h1 style="color: #0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff; font-family: 'Courier New', monospace; letter-spacing: 2px;">
-░A░r░s░e░n░i░i░ ░K░r░a░k░o░v░s░k░i░i░
+𝒜𝓇𝓈𝑒𝓃𝒾𝒾 𝒦𝓇𝒶𝓀𝑜𝓋𝓈𝓀𝒾𝒾
 </h1>
 
 <!-- Блок информации с эффектом "матрицы" -->
 <div style="background: #111; padding: 15px; border-left: 3px solid #f0f; margin: 20px 0; text-align: left; font-family: 'Courier New', monospace;">
-  <p style="color: #0f0; margin: 0;">⚡ <span style="color: #0ff;">System</span>: ITMO PE Student Y27</p>
+  <p style="color: #0f0; margin: 0;">⚡ <span style="color: #0ff;">Edu</span>: ITMO PE Student Y27</p>
   <p style="color: #0f0; margin: 0;">🌀 <span style="color: #f0f;">Core</span>: Backend Developer</p>
 </div>
 
